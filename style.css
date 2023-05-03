@@ -1,0 +1,17 @@
+canvas 
+{
+  border:5px solid white;
+  border-radius:20px;
+  margin-top: 60px;
+}
+.note
+{
+  font-size: 15px;
+  color: black;
+}
+.heading
+{
+  font-size: 23px;
+  width: 100%;
+  margin: 0px;
+}
